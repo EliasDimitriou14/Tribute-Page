@@ -1,0 +1,66 @@
+h2{
+  font-size: 50px;
+  font-family: tahoma;
+  margin: auto;
+  padding: 10px;
+}
+
+h4{
+  font-size: 15px;  
+  font-weight: normal;
+  font-family:tahoma;
+  margin: auto;
+  padding: 10px;
+  
+}
+
+h3{
+  font-family:tahoma;
+  margin: auto;
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
+#main{
+        text-shadow: 4px 4px 4px grey;
+}
+
+#title{
+  background: #bab3b3;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#img-div{
+  background: #e3dede;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+#image{
+  padding-top:5px;
+  padding-bottom:5px;
+  width:100%;
+  height:auto;
+  max-width:1400px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+#img-caption{
+  font-family: tahoma;
+  padding-bottom: 10px;
+}
+
+ul{
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+  font-family:tahoma;
+  padding-bottom:50px;
+}
+
+li{
+  padding:20px;
+}
